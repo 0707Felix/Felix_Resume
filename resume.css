@@ -293,7 +293,8 @@ body {
    background: white;
 }
 @media (max-width: 767px) {
-  .footer{
-    width: 100%;
-  }
+  .footer .container {
+  max-width: 100%; /* 確保容器寬度撐滿畫面 */
+  margin: 0 auto;
+}
 }

@@ -217,6 +217,7 @@ body {
 .nameCircle{
   background-color:rgb(236, 194, 25); 
   position: absolute;
+  translate: 7px 50px;
   height: 40px; 
   width:40px; 
   border-radius: 50%;

@@ -301,3 +301,18 @@ body {
     font-size: 24px;
     text-indent: -15px
   }
+.footer {
+  background: #f5f5f5;
+  margin-top: 160px;
+}
+.contact {
+  text-align: center;
+  padding: 64px 0px;
+}
+.contact li {
+  display: inline-block;
+}
+.contact a:hover {
+   display: inline-block; 
+   background: white;
+}
